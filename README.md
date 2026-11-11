@@ -12,5 +12,8 @@
 
 - 📫 Contact me : 4ub3z3r0.dev@proton.me
 
+<br><br><br>
 
-<figure><embed src="https://wakatime.com/share/@36b2054d-0a9f-493a-a3fb-10ba7096bafc/9d217d60-c4d1-415d-a6fc-f8eadf785302.svg"></embed></figure>
+<div style="width: 50%;">
+    <img src="https://wakatime.com/share/@36b2054d-0a9f-493a-a3fb-10ba7096bafc/9d217d60-c4d1-415d-a6fc-f8eadf785302.svg">
+</div>
